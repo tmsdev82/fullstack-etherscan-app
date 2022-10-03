@@ -1,5 +1,8 @@
 use warp::Filter;
 
+mod client;
+mod etherscan;
+
 #[tokio::main]
 async fn main() {
     log4rs::init_file("logging_config.yml", Default::default()).unwrap();
