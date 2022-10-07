@@ -8,7 +8,7 @@ The project consists of the following components:
 - The frontend uses the Yew framework.
 - There is also a common libary component that defines the data structures.
 
-The tutorial explaining how the project is built can be found on my blog: [Ethereum transactions viewer app: Rust how to](https://tms-dev-blog.com/ethereum-transaction-viewer-rust-app) soon.
+The tutorial explaining how the project is built can be found on my blog: [Ethereum transactions viewer app: Rust how to](https://tms-dev-blog.com/ethereum-transaction-viewer-rust-app).
 
 ## Building and Running the project
 
